@@ -112,18 +112,14 @@ div.carta {
   height: 128px;
   perspective: 1000px;
 }
-
 .carta>img {
   box-shadow: 0px 0px 5px 0px #213547;
   width: 13vw;
   height: auto;
   margin: 1vh 0;
-  transition: transform 1s;
+  transition: transform 1.5s;
   transform-style: preserve-3d;
 }
-
 .rotarCarta {
-  transform: rotateY(90deg);
-}
-
-  
+  transform: rotateY(100deg);
+} 

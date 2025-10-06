@@ -14,10 +14,10 @@ const muestraImagen = (idContenedorCarta:string, posicionCarta:number) => {
          addClass(imagen, ["rotarCarta"]);
          setTimeout(() => {
             imagen.src = cartas[posicionCarta].imagen;
-         },600);
+         },1000);
          setTimeout(() => {
             removeClass(imagen, ["rotarCarta"]);
-         },600);
+         },1000);
          }
    }
 }

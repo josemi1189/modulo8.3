@@ -9,9 +9,3 @@
 **Concepto 4:** Mostrar segunda imagen y volver las dos cartas.
 
 **Concepto 5:** Mapear el DIV que contiene la carta con la posición del array de las cartas.
-
-**Concepto 6:** 
-**Concepto :** 
-**Concepto :** 
-**Concepto :** 
-
